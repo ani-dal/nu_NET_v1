@@ -1,0 +1,8 @@
+E:\PROJECTS\NU_NET\C++\nu_NET_v1\Debug\nu_NET_v1.exe
+E:\PROJECTS\NU_NET\C++\nu_NET_v1\Debug\nu_NET_v1.pdb
+F:\Projects\NU_NET\C++\nu_NET_v1\Debug\nu_NET_v1.exe
+F:\Projects\NU_NET\C++\nu_NET_v1\Debug\nu_NET_v1.pdb
+C:\Users\aniru\OneDrive\Documents\NU_NET\NU_NET\C++\nu_NET_v1\Debug\nu_NET_v1.exe
+C:\Users\aniru\OneDrive\Documents\NU_NET\NU_NET\C++\nu_NET_v1\Debug\nu_NET_v1.pdb
+E:\PROJECTS\NU_NET\NU_NET\C++\nu_NET_v1\Debug\nu_NET_v1.exe
+E:\PROJECTS\NU_NET\NU_NET\C++\nu_NET_v1\Debug\nu_NET_v1.pdb
